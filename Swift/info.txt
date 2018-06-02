@@ -1,0 +1,2 @@
+For run this project, you need to add open cv in Xcode and configure it from
+https://www.youtube.com/watch?v=o62iO8SssZk&t=219s
